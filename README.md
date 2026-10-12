@@ -60,7 +60,7 @@ Dự án game đi cảnh kiểu Mario, đồ họa được vẽ bằng GDI+ (kh
 - Đồng bộ nhãn âm thanh khi về menu; bật âm trong pause không phát nhạc.
 - Chặn lặp phím P/M/R khi giữ phím; bắt lỗi mở game và vòng cập nhật.
 - Sửa mục file WAV thành None Update, tránh khai báo trùng file mặc định.
-- Thành viên nhóm: Hoàng Đình Trọng và Trần Anh Minh.
+- Thành viên nhóm: Hoàng Đình Trọng, Trần Anh Minh và Nguyễn Hữu Hoàng Nam.
 
 ### Kiểm tra trên Windows trước khi nộp
 1. Build dự án và mở game; chơi đủ ba màn.
@@ -73,5 +73,6 @@ Dự án game đi cảnh kiểu Mario, đồ họa được vẽ bằng GDI+ (kh
 Bản sửa được kiểm tra tĩnh; chưa build/chạy trên Windows trong môi trường hiện tại.
 
 ## Thành viên nhóm
-- Hoàng Đình Trọng
-- Trần Anh Minh
+- Hoàng Đình Trọng - 51.01.104.108
+- Trần Anh Minh - 50.01.103.042
+- Nguyễn Hữu Hoàng Nam - 45.01.104.146 
