@@ -84,8 +84,10 @@ internal sealed class MainMenu : Form
         "Mục tiêu: thu thập xu, né gai, nhảy lên đầu quái để hạ chúng.\n" +
         "Đến cờ đích để qua màn; hoàn thành 3 màn để thắng.\n" +
         "Bạn có 3 mạng. Chạm quái hoặc gai, hoặc rơi xuống vực sẽ mất một mạng. Hết 3 mạng thì trò chơi kết thúc.\n\n" +
+        "Lập trình Windows (2611COMP1019)\n" +
+        "Giảng viên: ThS. Lương Trần Ngọc Khiết\n" +
         "Bài tập môn Lập trình C# WinForms\n" +
-        "Thành viên nhóm:\n1. Hoàng Đình Trọng\n2. Trần Anh Minh",
+        "Thành viên nhóm:\n1. Hoàng Đình Trọng - 51.01.104.108\n2. Trần Anh Minh - 50.01.103.042\n3. Nguyễn Hữu Hoàng Nam - 45.01.104.146" ,
         "Hướng dẫn & thông tin nhóm", MessageBoxButtons.OK, MessageBoxIcon.Information);
     private void ShowScores()
     {
